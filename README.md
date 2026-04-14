@@ -18,7 +18,6 @@ Built with a focus on simplicity, responsiveness, and visual appeal.
 ## 🛠️ Technologies Used
 - 🌐 **HTML** – Page structure  
 - 🎨 **CSS** – Styling and layout  
-- ⚙️ **JavaScript** – Interactivity (if applicable)
 
 ---
 
@@ -35,6 +34,5 @@ Built with a focus on simplicity, responsiveness, and visual appeal.
 luma/
 ├── index.html
 ├── style.css
-├── script.js
 ├── luma.png
 └── README.md
