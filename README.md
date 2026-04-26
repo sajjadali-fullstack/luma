@@ -6,9 +6,19 @@ Built with a focus on simplicity, responsiveness, and visual appeal.
 ---
 
 ## 🔗 Live Demo
-👉 https://sajjadali-fullstack.github.io/luma/
+# 🌟 Luma Landing Page
+
+[![Live Demo](https://img.shields.io/badge/demo-live_link-green?style=for-the-badge&logo=vercel)](https://sajjadali-fullstack.github.io/luma-landing-page/)
 
 ---
+
+<p align="center">
+  <img src="./luma.png" width="80%" alt="Project Preview" />
+</p>
+
+<div align="center">
+  <h3>🚀 High Performance | 📱 Fully Responsive | 🎨 Modern UI</h3>
+</div>
 
 ## 🖼️ Preview
 ![Luma Landing Page](./luma.png)
