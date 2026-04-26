@@ -8,7 +8,7 @@ Built with a focus on simplicity, responsiveness, and visual appeal.
 # 🌟 Luma Landing Page
 ## 🔗 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/demo-live_link-green?style=for-the-badge&logo=vercel)](https://sajjadali-fullstack.github.io/luma-landing-page/)
+[![Live](https://img.shields.io/badge/demo-live_link-green?style=for-the-badge&logo=vercel)](https://sajjadali-fullstack.github.io/luma-landing-page/)
 
 ---
 
